@@ -1,4 +1,4 @@
-package com.codingeagles.storyshow
+package com.rajngarg.storyshow
 
 
 import android.os.Bundle
@@ -10,7 +10,6 @@ import android.view.animation.AlphaAnimation
 import androidx.fragment.app.DialogFragment
 import androidx.fragment.app.Fragment
 import com.bumptech.glide.Glide
-import jp.shts.android.storiesprogressview.StoriesProgressView
 import kotlinx.android.synthetic.main.fragment_story.*
 import java.util.*
 

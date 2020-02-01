@@ -1,4 +1,4 @@
-package com.codingeagles.storyshow
+package com.rajngarg.storyshowsample
 
 import org.junit.Test
 

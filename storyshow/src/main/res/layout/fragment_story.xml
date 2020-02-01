@@ -49,7 +49,7 @@
         android:orientation="horizontal"
         android:padding="10dp">
 
-        <com.codingeagles.storyshow.CircleImageView
+        <com.rajngarg.storyshow.CircleImageView
             android:id="@+id/imageUser"
             android:layout_width="60dp"
             android:layout_height="60dp"
@@ -88,7 +88,7 @@
     </LinearLayout>
 
 
-    <jp.shts.android.storiesprogressview.StoriesProgressView
+    <com.rajngarg.storyshow.StoriesProgressView
         android:id="@+id/storiesProgressView"
         android:layout_width="match_parent"
         android:layout_height="3dp"

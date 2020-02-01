@@ -1,10 +1,10 @@
-package com.codingeagles.storyshowsample
+package com.rajngarg.storyshowsample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import com.codingeagles.storyshow.StoryFragment
-import com.codingeagles.storyshow.StoryModel
+import com.rajngarg.storyshow.StoryFragment
+import com.rajngarg.storyshow.StoryModel
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
